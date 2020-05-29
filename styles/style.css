@@ -1,0 +1,34 @@
+html {
+  font-size: 10px; /* px quiere decir 'pixels': la base del tamaño de fuente es ahora de 1o pixeles*/
+  font-family: 'Bebas Neue', cursive;
+    background-color: #C01F1F;
+}
+
+body {
+  width: 1200px;
+  margin: 0 auto;
+  background-color: black;
+  padding: 0px 20px 20px 30px;
+  border: 5px solid white;
+}
+
+h1 {
+    margin: 0;
+  padding: 20px 0;    
+  text-shadow: 5px 5px 3px gray;
+    color: white;
+  font-size: 60px;
+  text-align: center;
+}
+
+p, li {
+    color: white;
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;  
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
